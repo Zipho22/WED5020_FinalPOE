@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://zipho22.github.io/WED5020_FinalPOE/sitemap.xml
