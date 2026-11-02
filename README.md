@@ -1,5 +1,5 @@
 # WED5020_FinalPOE
-#GAUTENG HIGHER LEARNING INSTITUTION (GHLI)
+# GAUTENG HIGHER LEARNING INSTITUTION (GHLI)
 
 Student Name: Zanezipho Zothile Mthembu
 Student Number: ST10501921
@@ -8,7 +8,7 @@ Project: Gauteng Higher Learning Institution Website
 
 ⸻
 
-#1. PROJECT OVERVIEW
+# 1. PROJECT OVERVIEW
 
 This project involves the design and development of a website for Gauteng Higher Learning Institution (GHLI), a fictional private higher education institution based in Gauteng, South Africa.
 
@@ -24,16 +24,16 @@ The website consists of five main pages:
 
 The website was developed using HTML, CSS and JavaScript, with Google Forms used to collect student enquiries and contact messages.
 
-#LIVE WEBSITE:
+# LIVE WEBSITE:
 https://zipho22.github.io/WED5020_FinalPOE/
 
 ⸻
 
-#2. WEBSITE GOALS AND OBJECTIVES
+# 2. WEBSITE GOALS AND OBJECTIVES
 
 The primary goal is to establish a professional online presence for GHLI and provide prospective students, parents and other stakeholders with accessible information about the institution.
 
-##OBJECTIVES
+## OBJECTIVES
 
 * Provide information about the institution, including its history, mission, vision and values.
 * Display academic programmes, their duration and entry requirements.
@@ -43,7 +43,7 @@ The primary goal is to establish a professional online presence for GHLI and pro
 * Create a user-friendly website with clear navigation.
 * Establish a foundation for future enhancements, such as an online application system and student portal.
 
-##KEY PERFORMANCE INDICATORS (KPIs)
+## KEY PERFORMANCE INDICATORS (KPIs)
 
 * Increase the number of website visitors.
 * Make institutional information easily accessible.
@@ -84,7 +84,7 @@ The wireframes for the website include:
 - Enquiry page wireframe
 - Contact page wireframe
 
-#3. WEBSITE FEATURES
+# 3. WEBSITE FEATURES
 
 * Five interconnected HTML pages.
 * Consistent navigation menu.
@@ -99,7 +99,7 @@ The wireframes for the website include:
 
 ⸻
 
-#4. TECHNOLOGIES USED
+# 4. TECHNOLOGIES USED
 
 * HTML5: Website structure and content.
 * CSS3: Styling, colours, typography and responsive layouts.
@@ -113,9 +113,9 @@ The wireframes for the website include:
 
 ⸻
 
-#5. PROJECT STRUCTURE
+# 5. PROJECT STRUCTURE
 
-##The project contains the following main files and folders:
+## The project contains the following main files and folders:
 
 WED5020_FinalPOE/
 │
@@ -145,11 +145,11 @@ WED5020_FinalPOE/
 
 ⸻
 
-#6. DESIGN AND ACCESSIBILITY
+# 6. DESIGN AND ACCESSIBILITY
 
 The website uses a consistent colour scheme consisting of navy blue, gold and white, with Arial as the main font.
 
-##The design aims to provide:
+## The design aims to provide:
 
 * Clear and consistent navigation.
 * Readable typography and structured headings.
@@ -159,9 +159,9 @@ The website uses a consistent colour scheme consisting of navy blue, gold and wh
 
 ⸻
 
-#7. SEARCH ENGINE OPTIMISATION (SEO)
+# 7. SEARCH ENGINE OPTIMISATION (SEO)
 
-##SEO improvements include:
+## SEO improvements include:
 
 * Descriptive page titles and meta descriptions.
 * Relevant keywords for the institution and its programmes.
@@ -176,11 +176,11 @@ Additional off-page SEO activities, such as backlinks and social media promotion
 
 ⸻
 
-#8. TESTING
+# 8. TESTING
 
 The website was opened in Google Chrome and inspected using Chrome Developer Tools.
 
-##Testing activities included checking:
+## Testing activities included checking:
 
 * Navigation links between pages.
 * Image display and responsiveness.
@@ -191,9 +191,9 @@ The website was opened in Google Chrome and inspected using Chrome Developer Too
 
 ⸻
 
-#9. FUTURE IMPROVEMENTS
+# 9. FUTURE IMPROVEMENTS
 
-Future improvements may include:
+## Future improvements may include:
 
 * An online student application system.
 * A student login portal.
@@ -204,9 +204,9 @@ Future improvements may include:
 
 ⸻
 
-#10. LIVE WEBSITE
+# 10. LIVE WEBSITE
 
-The website is hosted using GitHub Pages.
+## The website is hosted using GitHub Pages.
 
 WEBSITE URL:
 https://zipho22.github.io/WED5020_FinalPOE/
