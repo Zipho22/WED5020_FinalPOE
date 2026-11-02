@@ -50,6 +50,39 @@ The primary goal is to establish a professional online presence for GHLI and pro
 * Provide a convenient way for prospective students to submit enquiries.
 
 ⸻
+## Timeline and Milestones
+•	Week 1: Research organisations, gather content and create the website proposals. 
+•	Week 2: Create the sitemap, wireframes and project folder structure. 
+•	Week 3: Develop the HTML structure for all website pages. 
+•	Week 4: Add CSS styling, images and website content. 
+•	Week 5: Add forms, navigation and other interactive elements. 
+•	Week 6: Test the website on desktop, tablet and mobile screen sizes. 
+•	Week 7: Fix errors, improve layout and complete accessibility checks. 
+•	Week 8: Final review, update documentation and prepare the submission.
+
+Research and planning.
+Proposal approval.
+Website structure and sitemap completed.
+HTML pages developed.
+Website testing and debugging.
+Final review and project submission.
+
+## Sitemap
+Homepage/index
+about.html
+courses.html
+enquiries.html
+contact.html
+
+### Wireframes
+
+The wireframes for the website include:
+
+- Home page wireframe
+- About Us page wireframe
+- Courses page wireframe
+- Enquiry page wireframe
+- Contact page wireframe
 
 #3. WEBSITE FEATURES
 
@@ -177,3 +210,12 @@ The website is hosted using GitHub Pages.
 
 WEBSITE URL:
 https://zipho22.github.io/WED5020_FinalPOE/
+
+## References
+1.	Canva. (n.d.). Canva. https://www.canva.com
+3.	Department of Higher Education and Training. (n.d.). Department of Higher Education and Training. https://www.dhet.gov.za
+4.	Mozilla Developer Network. (2025). HTML: HyperText Markup Language. https://developer.mozilla.org/en-US/docs/Web/HTML
+5.	Pexels. (n.d.). Free stock photos. https://www.pexels.com
+6.	Pixabay. (n.d.). Pixabay: Free images and royalty-free stock. https://pixabay.com
+7.	Unsplash. (n.d.). Unsplash: Beautiful free images. https://unsplash.com
+8.	W3Schools. (n.d.). HTML Tutorial. https://www.w3schools.com/html/
